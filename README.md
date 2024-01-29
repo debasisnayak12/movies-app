@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Show Project Live [See here](https://movies-app-taupe-alpha.vercel.app/).
 
 ## Available Scripts
 
